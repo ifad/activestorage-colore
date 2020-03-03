@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = %q{activestorage_colore}
+  s.name = %q{activestorage-colore}
   s.version = "1.0.0"
   s.date = %q{2020-03-03}
   s.summary = %q{activestorage service for Colore}
