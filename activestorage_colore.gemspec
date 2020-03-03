@@ -6,5 +6,7 @@ Gem::Specification.new do |s|
   s.files = [
     "lib/active_storage/service/colore_service.rb"
   ]
+  s.authors     = ['Diego Rosario Brogna']
+  s.email       = 'd.brogna@ifad.org'
   s.require_paths = ["lib"]
 end
